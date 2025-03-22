@@ -7,7 +7,7 @@ This project focuses on conducting investment and financial analysis through des
 
 **Descriptive and Exploratory Data Analysis:** Examined variable distributions, correlation analysis, and multivariate analysis to understand key financial trends.
 
-**Statistical Testing:**
+**Statistical Testing:** Performed normality tests, including the Anderson-Darling test, to validate data distributions.
 
 **Technologies Used**
 
